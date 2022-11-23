@@ -1,4 +1,4 @@
-CSCI3260 Assignment 2 Texture Mapping/ Lighting Control  (100/100)
+## CSCI3260 Assignment 2 Texture Mapping/ Lighting Control  (100/100)
 
 Name:Yu ZHIHAO
 Student ID: 1155141497

@@ -1,7 +1,6 @@
-CSCI3260 Assignment 1 Keyboard / Mouse Events
-
-Name: Mega Gunawan
-Student ID: 1155072307
+CSCI3260 Assignment 1
+Name: YUZHIHAO
+Student ID: 1155141497
 
 Manipulation:
 'Esc': exit

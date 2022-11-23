@@ -1,6 +1,5 @@
-CSCI3260 Assignment 1
-Name: YUZHIHAO
-Student ID: 1155141497
+## CSCI3260 Assignment 1
+### Name: YUZHIHAO Student ID: 1155141497
 
 Manipulation:
 'Esc': exit

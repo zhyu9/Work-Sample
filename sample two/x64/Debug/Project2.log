@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(364,73): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(383,75): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(397,73): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(410,77): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(340,12): warning C4101: “modelTransformMatrix_translate”: 未引用的局部变量
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(341,12): warning C4101: “modelTransformMatrix_rotate”: 未引用的局部变量
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(449,14): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\yuzhihao\Desktop\assignment2_demo\win\main.cpp(450,18): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> C:\Users\yuzhihao\source\repos\Project2\x64\Debug\Project2.exe
